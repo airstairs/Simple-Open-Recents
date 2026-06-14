@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recents Button</string>
+    <string name="accessibility_description">Allows this shortcut to trigger the system Recents panel.</string>
+</resources>
