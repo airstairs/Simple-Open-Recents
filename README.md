@@ -11,3 +11,13 @@ demo:  below im using it as a launch gesture to assign swipe up to open recents 
 
 
 ![demo](sr.gif)
+
+
+
+
+
+
+once installed it will ask for as accessibility oermission attempt to grant it it will say no after you click to allow it and it says no on the app info page click the three dot menu and click allow restricted settings then go back to accessibility page click allow  
+
+
+the allow restricted three dot menu doesn't appear in open recents app info page until you attempt to grant accessibility and it says no 
