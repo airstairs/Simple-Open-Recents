@@ -30,4 +30,4 @@ on that page, three dot menu -> allow restricted, close
 
 open again now allow accessibility
 
-ever open now will launch recent apps screen
+every open from now will launch recent apps screen
