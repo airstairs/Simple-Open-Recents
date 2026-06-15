@@ -22,7 +22,7 @@ once installed it will ask for as accessibility permission attempt to grant it i
 
 the allow restricted three dot menu doesn't appear in this apps app info page until you attempt to grant accessibility and it says no so..
 
-open click accessibility it says no, clos
+open click accessibility it says no, close
 
 hold open recents click app info
 
